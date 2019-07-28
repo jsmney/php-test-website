@@ -1,0 +1,45 @@
+<div id="intro">
+<h2>One Hour Shorts</h2>
+<p class="kina"><em>Every Tuesday, my friend <a href="http://kina.wordpress.com/" target="_blank">Katie</a> writes a story. Every Thursday, I illustrate that story.</em></p>
+<div id="gallery">
+<h3><a href="" target="_blank">()</a> - 17 Jan 2012</h3>
+<img src="photos/ohs-unstringed.jpg" title="Unstringed" style="float: left; padding: 10px;"/>
+        <p class="kina">&nbsp;</p>
+        <p class="kina">&nbsp;</p>
+        <p class="kina">&nbsp;</p>
+        <p class="kina">&nbsp;</p>
+        <p class="kina">&nbsp;</p>
+        <p class="kina">&nbsp;</p>
+        <p class="kina">&nbsp;</p>
+        <p class="kina">&nbsp;</p>
+          <p class="kina">&nbsp;</p>
+        <p class="kina">&nbsp;</p>
+        <p class="kina">&nbsp;</p>
+        <p class="kina">&nbsp;</p>
+        <p class="kina">&nbsp;</p>
+        <p class="kina">&nbsp;</p>
+        <p class="kina">&nbsp;</p>
+        <p class="kina">&nbsp;</p>
+<h3><a href="http://kina.wordpress.com/2012/01/10/mademoiselle-green-snake/" target="_blank">Mademoiselle Green Snake</a> - 10 Jan 2012</h3>
+<img src="photos/ohs-mgs.jpg" title="Mademoiselle Green Snake" style="float: left; padding: 10px;"/>
+        <p class="kina">Told time and time again is the Chinese legend of Madame White Snake. It features a greatly feared, but very beautiful monster: a giant snake that sometimes takes the form of a woman and walks the earth. There are many stories of her setting her eyes on a mortal man and, before he realizes what has happened, tricking him into being her husband. Most legends end with a powerful and wise monk, usually played by Jet Li, appearing at the last minute to save him from the monster's grasp and banishing the demon inside a temple for the rest of her days.</p>
+<p class="kina">This is not her story.</p>
+<p class="kina">This is the story of her younger sister, another beautiful monster who is a woman from the waist up and a giant green snake from the waist down. She, of course, had heard many times the laments of her sister. She was more cautious and more reserved about interacting with those pesky, demon-fearing mortals.</p>
+<p class="kina">The one day of the year, however, that she always visited the earth was the night of the Dragon Boat Festival. Sometimes she would don a pair of legs and wander about in traditional garb with the other mortals. Some years she would fly free among the lanterns or glide silently along the boats in the water. This year, feeling a little mischievous, she dressed as royalty, with a giant fan to hide her fang&egrave;d mouth and long train to hide her slithering tail.</p>
+<p class="kina">Suddenly, a man stepped on her train as he ran by. She winced in pain. She recognized the attire of a demon hunter and carefully retracted her fangs. But he did not look twice at her; he stumbled through the parade-goers, his sights clearly set on another demon. The crowds dispersed to make way for a battle too exciting to describe in words. After the demon was vanquished, he lay there, battered and broken. The green snake lady leaned over him and took pity on the poor monk's apprentice.</p>
+<p class="kina">This was not the first mortal man she had tried to be with.  Her problem was the intensity. When she leaned in to whisper sweet nothings, her words turned men mad with jealousy. Sometimes, she would playfully bite his bottom lip and the venom from her fangs would cause uncontrollable convulsions. She would try to caress, but scratch horribly with her claws. Her time with him was no different. Try as she might to tend to his wounds, he was left a little more battered than he came in. But over time he did heal, and one morning, he woke to find her beside him.</p>
+<p class="kina">And, like most normal men in this situation, he took one look at her tail and freaked the fuck out. There was a prolonged argument, full of shouting, screaming, crying. She cursed his name and slithered off; he high-tailed it back to the monastery. The monk's apprentice told the story of how the evil snake-woman bewitched him to his master, a monk probably played by Jet Li. &quot;But the strangest thing,&quot; he concluded, &quot;is that even after all of that, I still love her.&quot; &quot;Clearly,&quot; the master responded, &quot;You are still enchanted and must be exorcised.&quot; So he called in all of the monks and they put the young apprentice through horrendously excruciating rituals. After being drenched, shocked, burned, and pummeled, they asked him again. &quot;Are you still in love with that monster?&quot; He nodded sadly in the affirmative. They continued on, with harsher spells and rituals. Exhausted, he gave up and pleaded for them to stop, but his master flatly refused until he had been full exorcised. Finally, he felt a large, flat blow to the head and fell unconscious.</p>
+<p class="kina">When he woke up, he saw a hauntingly familiar face. The  green snake goddess had saved him for the second time. They were far far away from the monastery, and this time, she had tried to be gentler. &quot;Thank you,&quot; he said quietly. &quot;I really appreciate you rescuing me. Again. And this time, I know that I really feel how I do. I just - I can't be with a monster. I'm afraid that if I were to ever see you in your real form...&quot;</p>
+<p class="kina">She held up a finger and stopped him. Before he could finish, she had turned into a snake so large that her coils filled the room five times over. He gaped. She was the most beautiful creature he had ever seen, even more beautiful than the woman he had initially fallen for. Leaning down, she hissed a question that he perfectly understood.</p>
+<p class="kina">Mechanically, he opened his mouth to answer and, before he realized what he was doing, he let out a hiss in response.</p>
+<h3><a href="http://kina.wordpress.com/2012/01/03/of-troy/" target="_blank">A peace for a piece</a> - 3 Jan 2012</h3>
+<img src="photos/ohs-helen.jpg" title="Helen" style="float: left; padding: 10px;"/>
+        <p class="kina">Not too long ago, a little girl was born to the king of the gods. And, like most of his daughters, Helen was quickly abandoned and left to a normal childhood. But as she grew older and more beautiful, Athena visited her in her dreams with a warning: &quot;One day, it will be time for you to marry. When that day comes, many suitors will come from around the world bearing gold and gifts. And, failing to win your heart, thousands of men will die at your hand.&quot;</p>
+<p class="kina">Scared and shaken, Helen was determined to ignore the prophecy. So she hid her beauty from the world. She dressed only in rags. She wore no makeup. She refused to look any man in the eye for fear of being accidentally alluring.</p>
+<p class="kina">But occasionally Helen slipped. She might smile at a waiter and find him down on one knee, proposing. She might say hello to a man passing by on the street and he might respond with his pin number, while handing over his wallet. Once, she went into her local branch to deposit a check and accidentally came out with sacks of bank money. Thankfully, the police officer in charge understood the mistake and dropped all charges, as he listened sympathetically to her story while treating her to lunch.</p>
+<p class="kina">Unfortunately, all of this male attention did her little good. She caused traffic jams when she crossed the street. Fights broke out in clubs when she tried to dance with any one man. Her heart ached to see this violence, and she was painfully reminded of her prophecy.</p>
+<p class="kina">In great despair, she sat down at her vanity table. She cast aside her rags and donned a beautiful white gown. She reached into a drawer and painted her lips, her eyes, her cheeks. She stepped into two diamond encrusted heels and puffed some perfume at her nape. She smiled at her reflection and stepped out into the world.</p>
+<p class="kina">&quot;Come and get me,&quot; she shouted. And so, a great war broke out. Towns were sacked and burned. Men killed each other in the streets. Countries tore themselves to shreds. She stood among the strewn bodies and shook her head.</p>
+<p class="kina">&quot;No, no, no. You don't understand.&quot; She reached behind to unzip her dress. &quot;Come and get me.&quot; The dress fell to the floor. A man dying at her feet reached out for her. Another hand grabbed her leg and with a tug, brought her to the ground. The men, previously fighting among themselves, turned their rapt attention onto her. Her head hit the ground and begun to lose consciousness. As her vision drifted in and out, she saw a soldier holding up one diamond heel like a trophy. Another triumphantly held up her earring. A third, her ear. And, like a fire that consumed all before it, a great peace settled over the land as every man on earth was able to possess her.</p>
+</div>
+</div>
